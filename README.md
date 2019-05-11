@@ -1,4 +1,4 @@
 # WikiPastNet
 Tutorial for PastNet Hackathon
 
-Download the ipython notebook and / or follow along here: https://colab.research.google.com/drive/1DzN788BJ7ncXk9ftvFF0jQMTuTqIvl-o
+View the IPython notebook above, or download and open in Jupyter notebooks / Jupyterlab.
